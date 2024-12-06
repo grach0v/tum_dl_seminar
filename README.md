@@ -1,6 +1,5 @@
 # tum_dl_seminar
 
-
 # Modalities 
 - ATAC (Assay for Transposase-Accessible Chromatin):
   - ATAC measures how accessible different regions of DNA are in a cell.
